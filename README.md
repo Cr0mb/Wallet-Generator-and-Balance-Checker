@@ -23,3 +23,4 @@ The script generates a random mnemonic phrase (12, 15, 18, 21, or 24 words).
 pip install ecdsa hashlib base58 requests bech32 mnemonic bip-utils eth-utils colorama pyfiglet py-ton
 ```
 
+![image](https://github.com/user-attachments/assets/b6c54303-9905-429b-b349-85563ebff81a)
